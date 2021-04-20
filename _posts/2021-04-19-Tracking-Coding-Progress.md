@@ -1,6 +1,7 @@
 ---
 published: true
 Tracking coding progess for a self taught developer: Embeding Github Contribution chart into html markdown page
+layout: post
 ---
 ## Tracking Coding Progress
 
