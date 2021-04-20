@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Tracking Progress as a self taught developer 
+title: Tracking Progress As a Self Taught Developer 
 published: true
 ---
-## Tracking Progress as a Self Taught Developer
 
 I saw a tweet by @levelsio on twitter about adding your Github contributions calendar to your website.
 [Link to tweet by levelsio](https://twitter.com/levelsio/status/1383887141135024134)
