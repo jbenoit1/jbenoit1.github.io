@@ -1,10 +1,9 @@
 ---
-published: true
-Tracking coding progess for a self taught developer: Embeding Github Contribution chart into html markdown page
 layout: post
+title: Tracking Progress as a self taught developer 
+published: true
 ---
-## Tracking Coding Progress
-
+## Tracking Progress as a Self Taught Developer
 
 I saw a tweet by @levelsio on twitter about adding your Github contributions calendar to your website.
 [Link to tweet by levelsio](https://twitter.com/levelsio/status/1383887141135024134)
