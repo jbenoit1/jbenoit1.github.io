@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 Tracking coding progess for a self taught developer: Embeding Github Contribution chart into html markdown page
 ---
 ## Tracking Coding Progress
@@ -26,5 +26,3 @@ I also want to see if I can find someone in my network who could use a website, 
 
 
 Here's the link on how to add your github chart to your website: [https://profitpress.com/how-to-embed-github-contributions-chart-calendar/](https://profitpress.com/how-to-embed-github-contributions-chart-calendar/)
-
-
