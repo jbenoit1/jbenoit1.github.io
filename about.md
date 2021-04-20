@@ -13,7 +13,7 @@ A place to include any other types of information that you'd like to include abo
 
 ### Track My Github contributions Here
 
-<img src="http://ghchart.rshah.org/jbenoit1" alt="jbenoit1 Github Contributions">
+<img src="http://ghchart.rshah.org/#276298/jbenoit1" alt="jbenoit1 Github Contributions">
 
 
 ### Contact me
