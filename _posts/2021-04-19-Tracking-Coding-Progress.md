@@ -6,8 +6,7 @@ Tracking coding progess for a self taught developer: Embeding Github Contributio
 
 
 I saw a tweet by @levelsio on twitter about adding your Github contributions calendar to your website.
-
-https://twitter.com/levelsio/status/1383887141135024134
+[Link to tweet by levelsio](https://twitter.com/levelsio/status/1383887141135024134)
 
 I really like that idea! Showing that you are working regulary in public encoruages personal accountability to keep doing the work (at least for me). Even knowing that no one is likely reading this blog, the fact that it's public and people CAN read it encourages me to keep putting in the work.
 
