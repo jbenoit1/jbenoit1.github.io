@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: post
 title: Projects
 permalink: /projects/
 published: true
 ---
 
-Here are my Projects!
+Hi! This page is a work in progress. I'll be adding all my personsal projects here. 
 
-### More Information
-
-This page is a work in progress. 
+Check back later for more
 
 ### Contact me
 
