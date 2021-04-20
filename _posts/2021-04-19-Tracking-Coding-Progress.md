@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tracking Progress As a Self Taught Developer
+title: Tracking Progress as a Self Taught Developer
 published: true
 ---
 
